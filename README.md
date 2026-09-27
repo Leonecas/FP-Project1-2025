@@ -24,6 +24,8 @@ You'll be prompted for each player's move in the format:
 J <row> <col> <H|V> <word> — play a word
 T <letters> — exchange letters
 P — pass your turn
+
+
 License
 
 MIT
