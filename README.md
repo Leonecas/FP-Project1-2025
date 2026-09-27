@@ -15,9 +15,9 @@ Dictionary-based data modeling for letter sets and player state
 Coordinate-based 2D board representation and directional (horizontal/vertical) string extraction
 Input validation and defensive programming (raising errors on invalid arguments)
 How to run
-'''bash
+```bash
 python scrabble.py
-'''
+```
 
 You'll be prompted for each player's move in the format:
 
