@@ -1,7 +1,6 @@
 '''
 Projeto 1 de FP
 Leonor Mendonça Rodrigues
-ist1118192
 leonor.rodrigues@tecnico.ulisboa.pt
 10/10/2025
 '''
